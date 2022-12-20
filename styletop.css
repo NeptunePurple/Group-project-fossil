@@ -1,10 +1,3 @@
-.topnav {
-    display: flex;
-    justify-content: space-around;
-    /* margin-top: 75px;
-    width: 98.8vw; */
-}
-
 .float {
         
     position: fixed;
@@ -26,10 +19,11 @@
     font-weight: bolder;
 }
 
-.topbar{
+.topnav{
     display: flex;
     justify-content: space-between;
 }
+
 .navkkk{
     display: flex;
     justify-content: space-between;
